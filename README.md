@@ -1,25 +1,3 @@
-# Android Blockchain Example with Java
-This mobile app is an example to learn how Blockchain works as an Android app using Java.
-
-
-Getting started
----------------
-You can clone or fork this repo and use it freely. If there are build errors, in Android Studio go to `Tools -> Android -> SDK Manager` and install any available updates. Then go to `Build -> Clean Project` and finally `Build -> Rebuild Project`.
-
-Remember, you will need getting the last API version and updates. This project runs with AndroidX and new Material Design, so, if you want to keep this, leave the dependencies as they are.
-
-#### build.gradle
-```gradle
-dependencies {
-    implementation 'com.google.android.material:material:1.1.0'
-    implementation 'androidx.appcompat:appcompat:1.1.0'
-    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
-    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
-    implementation 'androidx.coordinatorlayout:coordinatorlayout:1.1.0'
-    implementation 'com.google.android.play:core:1.8.0'
-}
-```
-
 
 Screenshots
 -----------
